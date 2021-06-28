@@ -1,7 +1,7 @@
 # calculator
 
 A new Flutter project.
-
+<img src="./syedusamaali.png" width="500">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
